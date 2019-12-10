@@ -71,7 +71,7 @@ namespace Discount_Purchasing_and_Shipping
             boxes[2] = new ShippingBox("S721", "Denver CO", 30, 150, 6.5, 6.5, 3, 2.5);
             boxes[3] = new ShippingBox("S678", "SLC UT", 50, 30, 14, 8, 1, 1.5);
 
-
+             
             foreach (Item item in boxes)
             {
                 WriteLine(item);
