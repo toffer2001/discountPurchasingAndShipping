@@ -1,0 +1,7 @@
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\bin\Debug\Discount_Purchasing_and_Shipping.exe.config
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\bin\Debug\Discount_Purchasing_and_Shipping.exe
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\bin\Debug\Discount_Purchasing_and_Shipping.pdb
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\obj\Debug\Discount_Purchasing_and_Shipping.csproj.CoreCompileInputs.cache
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\obj\Debug\Discount_Purchasing_and_Shipping.exe
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\obj\Debug\Discount_Purchasing_and_Shipping.pdb
+C:\Users\KristofferKeene\Dropbox\Personal\DATC\2410 - C#\Final Project\Discount_Purchasing_and_Shipping\Discount_Purchasing_and_Shipping\obj\Debug\Discount_Purchasing_and_Shipping.csprojAssemblyReference.cache
